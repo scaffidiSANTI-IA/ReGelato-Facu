@@ -13,7 +13,7 @@ El ZIP contiene el sitio en `dist/`. Abrir `dist/index.html` o servir esa carpet
 La página no tiene editor, formularios, exportación de campos ni almacenamiento local de contenido. Las actualizaciones se realizan directamente en el código. Solo se conserva la preferencia de pausar animaciones.
 
 - Marca: ReGelato. Identificación del proyecto: ReGelato – Heladería Circular.
-- Integrantes: Scaffidi Resa Santiago, Grimaldi Ferro Valentina, Duarte Frank Francisco, Bucca Luna Guadalupe, Marin Sendra Lucila y Yanzon Sofia.
+- Integrantes: Scaffidi Resa Santiago, Grimaldi Ferro Valentina, Duarte Frank Francisco, Bucca Luna Guadalupe, Marin Sendra Lucila, Yanzon Sofia y Perez Corrales Maria Cristina.
 - Mascota: Copito. La imagen original enviada por el usuario está en `dist/assets/copito.png`, sin modificaciones. Aparece en identidad y acompaña el recorrido.
 - Se mantienen los dos lemas, identificados como opciones en evaluación.
 - Idea de negocio: frutas frescas y maduras, rescate por razones estéticas o sobrestock, productores y comercios locales, upcycling, reincorporación de pulpas, sabores e infusiones, refill e insumos compostables.
